@@ -1,0 +1,5 @@
+webhook_url: "slack-webhook-url"
+access_token: "github-access-token"
+repos:
+  - owner: user
+    repo: repo_name

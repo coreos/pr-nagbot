@@ -1,0 +1,14 @@
+[package]
+name = "pr-nagbot"
+version = "0.1.0"
+authors = ["Alexander Pavel <alex.pavel@coreos.com>"]
+
+[dependencies]
+slack-hook = "*"
+github-rs = "*"
+serde = "*"
+serde_json = "*"
+serde_yaml = "*"
+serde_derive = "*"
+error-chain = "*"
+clap = "*"
